@@ -1,0 +1,52 @@
+.body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.header {
+    background-color: royalblue;
+    color: white;
+    height: 50px;
+    font-size: 1cm;
+    padding: 20px;
+}
+.todoform {
+    width: 100%;
+    margin: auto;
+    margin-top: 10px;
+}
+.todoinput {
+    width: 100%;
+    border: none;
+    border-bottom:1px solid whitesmoke ;
+    font-size: 1.5em;
+    text-align: center;
+    height: 50px;
+}
+.todobtn {
+    width: 100%;
+    border: none;
+    height: 70px;
+    background-color: tomato;
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
+    margin-top: 20px;
+}
+.todoitem {
+    margin: auto;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+}
+.todoname {
+    font-size: 1em;
+}
+.deletebtn {
+    width: 100px;
+    border: none;
+    height: 50px;
+    background-color: tomato;
+    color: white;
+    font-size: 1em;
+    border-radius: 2px;
+}
